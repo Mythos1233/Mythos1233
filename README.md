@@ -1,6 +1,6 @@
 # Hi 👋, I'm Murilo Barros
 
-🚀 **A TI Estudent and Enthusiast!**  
+🚀 **A IT Estudent and Enthusiast!**  
 🇧🇷 Brazil
 
 I’m Learning how to be a complete **Software Enginner!**
