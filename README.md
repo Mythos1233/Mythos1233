@@ -47,6 +47,7 @@ I'm focusing on **Python, JavaScript, Java, SQL, DevOps** and everything needed 
 
 <p align="left">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=muriloo-barros&show_icons=true&theme=tokyonight&count_private=true" />
+  
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muriloo-barros&layout=compact&theme=tokyonight" />
 </p>
 
