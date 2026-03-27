@@ -45,8 +45,8 @@ I'm focusing on **Python, JavaScript, Java, SQL, DevOps** and everything needed 
 
 ## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muriloo-barros&layout=compact&theme=tokyonight)
 ![Murilo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=muriloo-barros&show_icons=true&theme=tokyonight&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muriloo-barros&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
